@@ -11,4 +11,4 @@ Five of the most popular classifiers were used:
 
 Most Algorithms achieved accuracy more than 90%. Random Forest did the best with 98.5 %
 
-# Detection-of-Phish-Emails-Using-Machine-Learning-Algorithms
+#Detection-of-Phish-Emails-Using-Machine-Learning-Algorithms
